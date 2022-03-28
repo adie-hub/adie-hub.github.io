@@ -27,7 +27,7 @@ Otherwise, checkout [Hugo's install documentation](https://gohugo.io/getting-sta
 Fork this repository to your own github account, then clone it to your local machine with:
 
 ```sh
-git clone --recurse-submodules https://github.com/adie-hub/adie-hub.github.io.git
+git clone --recurse-submodules https://github.com/<YOUR_USERNAME_HERE>/adie-hub.github.io.git
 ```
 
 Open it up in your favorite text editor (VS Code works great!).
