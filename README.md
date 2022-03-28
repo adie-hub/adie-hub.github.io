@@ -111,8 +111,6 @@ tags:
 If you have any questions, please feel free to reach out in one of these ways:
 
 1. Join the [discord server](https://discord.gg/U8qBJXn2GM)
-
-- Current students and alumni, please direct your questions to the #ada-hub channel.
-- Alternatively, you can reach out directly to Jesse (discord username: jesse (they/them)#2656) or Lux (discord username: knox#2169)
-
+   - Current students and alumni, please direct your questions to the #ada-hub channel.
+   - Alternatively, you can reach out directly to Jesse (discord username: jesse (they/them)#2656) or Lux (discord username: knox#2169)
 2. Open an [issue on github](https://github.com/adie-hub/adie-hub.github.io/issues)
