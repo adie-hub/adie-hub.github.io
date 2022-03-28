@@ -2,9 +2,9 @@
 title: "Internship Resources"
 date: 2022-03-27T20:55:57-07:00
 draft: false
-toc: true
+toc: false
 tags: 
-- internship
+  - internship
 ---
 ## Internship Resources
 
