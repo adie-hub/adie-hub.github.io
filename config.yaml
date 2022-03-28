@@ -49,6 +49,9 @@ menu:
     - name: About
       url: /about/
       weight: 4
+    - name: Contributing
+      url: /contributing/
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
