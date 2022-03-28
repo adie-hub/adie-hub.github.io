@@ -2,6 +2,8 @@
 
 An Adie-organized space for sharing resources across adie cohorts.
 
+Check out the [repo on github](https://github.com/adie-hub/adie-hub.github.io), or [go to the site itself](https://adie-hub.github.io/).
+
 ## Contributing to the Adie Hub
 
 We are using [Hugo](https://gohugo.io/) to build the site. This means all of the content lives in simple markdown files under the [content/post](https://github.com/adie-hub/adie-hub.github.io/tree/main/content/post) folder!
@@ -22,7 +24,12 @@ Otherwise, checkout [Hugo's install documentation](https://gohugo.io/getting-sta
 
 ### 2. Fork and clone the repository
 
-Fork this repository to your own github account, then clone it to your local machine.
+Fork this repository to your own github account, then clone it to your local machine with:
+
+```sh
+git clone --recurse-submodules https://github.com/adie-hub/adie-hub.github.io.git
+```
+
 Open it up in your favorite text editor (VS Code works great!).
 
 ### 3. Create a new page
@@ -50,6 +57,8 @@ tags:
 
 This is some metadata that will help Hugo build the page correctly. The title will be set automatically based on the name of the file, and the date will also be created automatically.
 
+`toc: true` will add a table of contents to your post. If your post does not need a table of contents, you can change this value to `false`.
+
 Make sure to add the tag(s) that are relevant. See [Tags](#Tags) below for examples.
 
 Now you can write out the content you would like the page to have! If you don't know markdown, check out this [cheatsheet](https://commonmark.org/help/) to get started.
@@ -67,7 +76,9 @@ from the root of the repository on your computer. Then, you can open `localhost:
 
 ### 5. Submit a pull request
 
-Once you are happy with your changes, commit and push them up to your repository. Then you can submit a pull request for review!
+Once you are happy with your changes, go back to the yaml metadata and change `draft: true` to false. If you do not do this, your page will not be created by hugo when you submit it.
+
+Then you can commit your changes and push them up to your repository. Then you can submit a pull request for review!
 
 ## Tags
 
@@ -94,3 +105,14 @@ tags:
   - internship
 ---
 ```
+
+## Questions
+
+If you have any questions, please feel free to reach out in one of these ways:
+
+1. Join the [discord server](https://discord.gg/U8qBJXn2GM)
+
+- Current students and alumni, please direct your questions to the #ada-hub channel.
+- Alternatively, you can reach out directly to Jesse (discord username: jesse (they/them)#2656) or Lux (discord username: knox#2169)
+
+2. Open an [issue on github](https://github.com/adie-hub/adie-hub.github.io/issues)
