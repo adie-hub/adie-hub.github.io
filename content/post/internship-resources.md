@@ -14,3 +14,4 @@ tags:
 
 ### Internship Success
 1. [Example Internship Tracker](https://docs.google.com/spreadsheets/d/1LU_R6jO4mQfC5hf5MAvnyWMJ1MS1tWSo/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
+2. [Notes from C15 Internship Panel](https://docs.google.com/document/d/1oC9Ae7f2QQOhB2pb1iVxKNskWcSlBaJM/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
