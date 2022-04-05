@@ -27,22 +27,29 @@ tags:
 4. [Study Hall link for duration of internship](https://adadev-org.zoom.us/j/4219189953)
 
 ### Recordings
+Please note that these links were updated after classroom portion ended. The links below are new:
 
 1. [Seattle Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a0a2eb4e-9c9e-466b-af26-ad920156eefe%22)
-2. [Cedar Homeroom](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22c7daaa8a-b678-40dc-a1ff-ad92015669db%22)
-3. [Pine Homeroom](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d672a4f2-c101-4a14-a216-ad920156e34e%22)
+2. [Cedar Homeroom](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22c0f1c3b1-37bf-4a4e-9971-ae4e01671268%22)
+3. [Pine Homeroom](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%225eb25a5f-84fe-405f-891d-ae4e016616d4%22)
 4. [Digital Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2272184a77-db44-4ac9-8a42-ad920156a644%22)
-5. [Maple Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2249d721b0-30d5-4b5b-b835-ad920156d62c%22)
-6. [Spruce Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d172e186-aaac-48b4-b8de-ad920157056e%22)
+5. [Maple Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%221c854989-a090-4d3c-9287-ae4e0164d351%22)
+6. [Spruce Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22c4927add-31c2-4e0c-b4bd-ae4e01681355%22)
 
 ### Thursdays at Ada
 
 1. [Thursdays at Ada Norms](https://docs.google.com/document/d/1dxhqT6Jg51fn0ttvFxTwWZDbm8mVlsAB9tcwUQbuWrU/edit?usp=sharing)
+2. [TAA Calendar](https://drive.google.com/file/d/1yk9p27fwln_H-CpjYKh7MTkSNgNiLGbi/view?usp=sharing)
 
 ### Internships
 
-1. [Company Presentation Information Sheet](https://docs.google.com/spreadsheets/d/15NC9F3eK1oj28y2CK8yiyso1cxnuqvCP/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
-2. [Seattle Internship Overview](https://drive.google.com/file/d/1vixiHv7ArR4dMYxovrNk2KSGB4b3TwA5/view?usp=sharing)
-3. [C16 Company Partner Guide](https://drive.google.com/file/d/1w4bdS08drSt9QW82Aq4cgcW__nEvq79n/view?usp=sharing)
-4. [Intern Guide](https://drive.google.com/file/d/1WvyyhhuSdY1N73adxyfghDZyIQFNEPz_/view?usp=sharing)
-5. [Example Internship Tracker](https://docs.google.com/spreadsheets/d/1LU_R6jO4mQfC5hf5MAvnyWMJ1MS1tWSo/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
+1. [What to Expect](https://docs.google.com/presentation/d/16D_hJBfEbreQneOw3D0RE1QYbBIi_mQc/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
+2. [Company Presentation Information Sheet](https://docs.google.com/spreadsheets/d/15NC9F3eK1oj28y2CK8yiyso1cxnuqvCP/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
+3. [Seattle Internship Overview](https://drive.google.com/file/d/1vixiHv7ArR4dMYxovrNk2KSGB4b3TwA5/view?usp=sharing)
+4. [C16 Company Partner Guide](https://drive.google.com/file/d/1w4bdS08drSt9QW82Aq4cgcW__nEvq79n/view?usp=sharing)
+5. [Intern Guide](https://drive.google.com/file/d/1WvyyhhuSdY1N73adxyfghDZyIQFNEPz_/view?usp=sharing)
+6. [Example Internship Tracker](https://docs.google.com/spreadsheets/d/1LU_R6jO4mQfC5hf5MAvnyWMJ1MS1tWSo/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
+7. [Career Service Manager Calendly]()
+8. [Company Partner Midpoint Review Survey](https://docs.google.com/forms/d/e/1FAIpQLSfg3KZ3iovqs6OfrORKTHOxjIU1ue5Zg4u9bZlzVPmnA6ADYA/viewform)
+9.  [Intern Self-Eval Midpoint Review Survey](https://docs.google.com/forms/d/e/1FAIpQLSeBahyATI9j-QiXGIQwjY32Q-Kg-OPb2cfOxdtLCUpe_f9hGw/viewform)
+10. 
