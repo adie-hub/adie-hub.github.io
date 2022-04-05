@@ -40,6 +40,9 @@ Please note that these links were updated after classroom portion ended. The lin
 
 1. [Thursdays at Ada Norms](https://docs.google.com/document/d/1dxhqT6Jg51fn0ttvFxTwWZDbm8mVlsAB9tcwUQbuWrU/edit?usp=sharing)
 2. [TAA Calendar](https://drive.google.com/file/d/1yk9p27fwln_H-CpjYKh7MTkSNgNiLGbi/view?usp=sharing)
+3. [Dawn Calendly](https://go.adadevelopersacademy.org/e/930233/dawn-cheung-30minutes/3t469/51568808?h=TppB1Z9GN5unwZjN_WivDCu9hu51oIeSX8VX3VeOSqQ)
+4. [Lee Calendly](https://go.adadevelopersacademy.org/e/930233/leonna-lee-lee-c16-intern-1-1/3t46d/51568808?h=TppB1Z9GN5unwZjN_WivDCu9hu51oIeSX8VX3VeOSqQ)
+5. [Rachel Calendly](https://go.adadevelopersacademy.org/e/930233/ari-intern-office-hours-30-min/3t46h/51568808?h=TppB1Z9GN5unwZjN_WivDCu9hu51oIeSX8VX3VeOSqQ)
 
 ### Internships
 
