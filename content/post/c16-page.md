@@ -13,11 +13,13 @@ tags:
 
 1. [Welcome Guide](https://drive.google.com/file/d/1m3UeqY7by_DsHHCCivc57lxIBE9SJu24/view?usp=sharing)
 2. [Handbook](https://drive.google.com/file/d/10n0v5GD2HYnzVN-qsNtZrYfDHu0pu9Mf/view?usp=sharing)
+3. [End of Course Evaluation Summary](https://drive.google.com/file/d/10RfZOl2kMgK-UJWMYbkONFoSXa2uaC6x/view?usp=sharing)
 
 ### Digital
 
 1. [Welcome Guide](https://drive.google.com/file/d/1fHrDvwLEXJ-voWOWw_jVrj2RO7TGtu5P/view?usp=sharing)
 2. [Handbook](https://drive.google.com/file/d/1Z0ksf3v5FWHOVZ_HzW0rGTUBMEOsgo4d/view?usp=sharing)
+3. [End of Course Evaluation Summary](https://drive.google.com/file/d/1w8x_feUJze4uY1WKJe2axnrl1WyYhI9m/view?usp=sharing)
 
 ### Cohort-Wide
 
