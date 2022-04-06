@@ -31,9 +31,9 @@ tags:
 
 ### Recordings
 
-1. [Seattle Auditorium]
+1. [Seattle Auditorium](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a0a2eb4e-9c9e-466b-af26-ad920156eefe%22)
 2. [Whales Homeroom](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22c7daaa8a-b678-40dc-a1ff-ad92015669db%22)
-3. [Pine Homeroom]
+3. [Otters Homeroom](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d672a4f2-c101-4a14-a216-ad920156e34e%22)
 4. [Digital Auditorium]
 5. [Sharks Homeroom](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2249d721b0-30d5-4b5b-b835-ad920156d62c%22)
 6. [Spruce Homeroom]
