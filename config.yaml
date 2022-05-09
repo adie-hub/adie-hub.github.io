@@ -52,6 +52,9 @@ menu:
     - name: Contributing
       url: /contributing/
       weight: 5
+    - name: Ask an Adie
+      url: /ask-an-adie/
+      weight: 6
 
 markup:
   defaultMarkdownHandler: goldmark
