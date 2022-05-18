@@ -44,7 +44,7 @@ Please note that these links were updated after classroom portion ended. The lin
 2. [TAA Calendar](https://drive.google.com/file/d/1yk9p27fwln_H-CpjYKh7MTkSNgNiLGbi/view?usp=sharing)
 3. [Dawn Calendly](https://go.adadevelopersacademy.org/e/930233/dawn-cheung-30minutes/3t469/51568808?h=TppB1Z9GN5unwZjN_WivDCu9hu51oIeSX8VX3VeOSqQ)
 4. [Lee Calendly](https://go.adadevelopersacademy.org/e/930233/leonna-lee-lee-c16-intern-1-1/3t46d/51568808?h=TppB1Z9GN5unwZjN_WivDCu9hu51oIeSX8VX3VeOSqQ)
-5. [Rachel Calendly](https://go.adadevelopersacademy.org/e/930233/ari-intern-office-hours-30-min/3t46h/51568808?h=TppB1Z9GN5unwZjN_WivDCu9hu51oIeSX8VX3VeOSqQ)
+
 
 ### Internships
 
@@ -54,7 +54,5 @@ Please note that these links were updated after classroom portion ended. The lin
 4. [C16 Company Partner Guide](https://drive.google.com/file/d/1w4bdS08drSt9QW82Aq4cgcW__nEvq79n/view?usp=sharing)
 5. [Intern Guide](https://drive.google.com/file/d/1WvyyhhuSdY1N73adxyfghDZyIQFNEPz_/view?usp=sharing)
 6. [Example Internship Tracker](https://docs.google.com/spreadsheets/d/1LU_R6jO4mQfC5hf5MAvnyWMJ1MS1tWSo/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
-7. [Career Service Manager Calendly]()
-8. [Company Partner Midpoint Review Survey](https://docs.google.com/forms/d/e/1FAIpQLSfg3KZ3iovqs6OfrORKTHOxjIU1ue5Zg4u9bZlzVPmnA6ADYA/viewform)
-9.  [Intern Self-Eval Midpoint Review Survey](https://docs.google.com/forms/d/e/1FAIpQLSeBahyATI9j-QiXGIQwjY32Q-Kg-OPb2cfOxdtLCUpe_f9hGw/viewform)
-10. 
+1. [Company Partner Midpoint Review Survey](https://drive.google.com/drive/folders/12W3SowYzWgJyKRa5M84kCEAKwK_Q6VZc?usp=sharing)
+2.  [Intern Self-Eval Midpoint Review Survey](https://drive.google.com/drive/folders/1QMtFygzeHPhsMQeASiKzP7_3m6b6szau?usp=sharing)

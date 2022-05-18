@@ -15,7 +15,12 @@ tags:
 3. [What to Look for in a Company](https://docs.google.com/document/d/1L4ZIAaQNZ9Y-fw808T7-nxNs4lNs5VfrqTnkABp4SRw/edit?usp=sharing)
 4. [Getting to Know a Company](https://docs.google.com/document/d/1n5FsOZ-kqW2yQNS_wQ63od0XOPaEQ_dhB2WHg4nI758/edit?usp=sharing)
 5. [Resume Resources from Ada CSM - C16](https://docs.google.com/spreadsheets/d/1pH5dvnX09mlZwVYWCkL1iC0zO-soJYLq7P_ePhFuBtU/edit?usp=sharing)
+6. [C16 TAA 5-19-2022 Interview Process Prep Recording](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf3c3545-3052-4f65-839c-ae8d0169a36f)
+4. [C16 Interviewing Supplemental Handout - Ada](https://drive.google.com/file/d/12cna4dAHSNR-NzPmsJBqw8MQEy79lxQ4/view?usp=sharing)
 
 ### Learning Materials
 1. [Cracking the Coding Interview PDF](https://drive.google.com/file/d/1JnZ05XVm8H3C_ICVfeybXe8z5mE3pYDS/view?usp=sharing)
 2. [Grokking Algorithms PDF](https://drive.google.com/file/d/1O8DhHp6bH1n-GQ4GoA1hPYgJur67DalA/view?usp=sharing)
+
+#### More in interviewing prep and internships
+[Internship Resources](/internship-resources/)

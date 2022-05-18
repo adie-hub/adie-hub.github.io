@@ -12,5 +12,6 @@ Welcome to the Adie Hub, an Adie-organized place to share resources and informat
 
 - [C16 Page](/c16-page/)
 - [C17 Page](/c17-page/)
+- [Career Resources](/career-resources)
 
 Check out the [tags](/tags/) page to find more topics and information, and check out the [contributing](/contributing/) page if you have something you think should be added!
