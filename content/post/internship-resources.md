@@ -13,6 +13,8 @@ tags:
 2. [C16 Company Presentation Info](https://docs.google.com/spreadsheets/d/15NC9F3eK1oj28y2CK8yiyso1cxnuqvCP/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)
 3.  [C16 TAA 5-19-2022 Interview Process Prep Recording](https://adaacademy.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf3c3545-3052-4f65-839c-ae8d0169a36f)
 4.  [C16 Interviewing Supplemental Handout - Ada](https://drive.google.com/file/d/12cna4dAHSNR-NzPmsJBqw8MQEy79lxQ4/view?usp=sharing)
+5.  [C15 TAA Career Development](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22babca828-939c-4a78-8f85-ad97015d7693%22)
+6.  [Cumulative TAA Panopto](https://adaacademy.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222887f2f4-b902-4379-8a39-adf101338f83%22&maxResults=250)
 
 ### Internship Success
 1. [Example Internship Tracker](https://docs.google.com/spreadsheets/d/1LU_R6jO4mQfC5hf5MAvnyWMJ1MS1tWSo/edit?usp=sharing&ouid=117402741877336591974&rtpof=true&sd=true)

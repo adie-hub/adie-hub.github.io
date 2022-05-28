@@ -6,6 +6,9 @@ toc: true
 tags:
 - learning
 ---
+## Notetaking/Diagrams
+1. [app.diagrams.net](https://app.diagrams.net/)
+
 ## Study resources for continued learning 
 
 ### General
